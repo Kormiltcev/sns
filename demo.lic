@@ -1,0 +1,66 @@
+[Secret Net LSP]
+CORE=FULL
+ClientDescription=Демонстрационная лицензия
+ClientID=55 645
+Date=2024-12-31
+Demo=YES
+LicCount=30
+LicID=24C0F12_DEMO_001
+Product=Secret Net LSP
+ProductDescription=Право на Secret Net LSP, "Постоянная защита", DEMO
+SuppType=NO
+UpgrExp=2024-12-31
+Sign=BAQJaL79NpfbMd7N8Za+LwlceA0gDmZE0I6VesLxpcSYJT6qOzX6/Gj+ldWhvS/+vhqHnlgyfK8+0XnTgWxMLA==
+[Secret Net LSP]
+ClientDescription=Демонстрационная лицензия
+ClientID=55 645
+DAC=FULL
+Date=2024-12-31
+Demo=YES
+LicCount=30
+LicID=24C0F12_DEMO_013
+Product=Secret Net LSP
+ProductDescription=Право на Secret Net LSP, "Постоянная защита", DEMO
+SuppType=NO
+UpgrExp=2024-12-31
+Sign=fxi3xURaZfj7a4I5oMeDiYFgC+hk1JLtpotPp0rdAbXn+9vrCHg3HceeZjsjMxHzQGnrLLylGmDMb9kJ/mFCog==
+[Secret Net LSP]
+CSE=FULL
+ClientDescription=Демонстрационная лицензия
+ClientID=55 645
+Date=2024-12-31
+Demo=YES
+LicCount=30
+LicID=24C0F12_DEMO_014
+Product=Secret Net LSP
+ProductDescription=Право на Secret Net LSP, "Постоянная защита", DEMO
+SuppType=NO
+UpgrExp=2024-12-31
+Sign=lsvFgsX4nw15UNBVyGqxhe08S12kHKYco3QQFp+tXMbKANzgltFDojIVZ0Vfn7IUI/oOPEISaazZ3ViVreo+Dg==
+[Secret Net LSP]
+ClientDescription=Демонстрационная лицензия
+ClientID=55 645
+DEVCTRL=FULL
+Date=2024-12-31
+Demo=YES
+LicCount=30
+LicID=24C0F12_DEMO_021
+Product=Secret Net LSP
+ProductDescription=Право на Secret Net LSP, "Постоянная защита", DEMO
+SuppType=NO
+UpgrExp=2024-12-31
+Sign=N6nSmSoZZQS//g77KCENmjLGzGMVawwcPlsoTAtKH+9zfD7bbLW0pfisP6kxLsAOpNNkXYHhEkckbzp1canrIQ==
+[Secret Net LSP]
+ClientDescription=Демонстрационная лицензия
+ClientID=55 645
+Date=2024-12-31
+Demo=YES
+FW=FULL
+LicCount=30
+LicID=24C0F12_DEMO_051
+Product=Secret Net LSP
+ProductDescription=Право на Secret Net LSP, "Постоянная защита", DEMO
+SuppType=NO
+UpgrExp=2024-12-31
+Sign=++hTd8VtXf5Pzy+KGWjJ4CRQlk9uyTz5WfNdSywWJZclMKy7rIymNeDBKske+mm0uyERrHRwyKbXXic7KkKCsA==
+
