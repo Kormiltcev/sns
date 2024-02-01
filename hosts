@@ -1,0 +1,9 @@
+127.0.0.1	localhost
+127.0.1.1	ubuntu.lms.innopolis.university ubuntu
+10.60.116.21    secretnet01.lms.innopolis.university    secretnet01
+10.60.16.22     ads02.lms.innopolis.university    ads02
+10.60.16.21     ads01.lms.innopolis.university    ads01
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
